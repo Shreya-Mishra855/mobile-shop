@@ -11,7 +11,7 @@ A responsive mobile shop website developed using HTML and CSS.
 │── contact.html
 │── style.css
 
-9 HTML pages (index, Home, Products, About, Contact, apple, samsung, pixel, oneplus)
+8 HTML pages (index, Products, About, Contact, apple, samsung, pixel, oneplus)
 Single shared CSS file
 Responsive layout using Flexbox
 Product cards with images
